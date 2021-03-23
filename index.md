@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Mongoose Hammer: Rulebook
+1. If you're not infected, get in a Mongoose upon spawning. Some maps have Warthogs, they are allowed. 
+2. Don't start going as soon as if you're the driver. Honk your horn to offer possible passengers to get on. 
+3. If there's not enough vehicles for you, try and become passenger of another vehicle. If all vehicles are completely full, remain unattended. Players that are not in a vehicle will be ignored by the zombies. Do NOT exploit this rule or the game will end and you will be booted from the party. 
+4. If a vehicle flips and all players are ejected, the zombie MUST back up to a far distance to give all players a chance to get back into the vehicle.
+5. Do not use the Elephant on Hammer Sandtrap.
+6. Do not use a Warthog if you are the only un-infected player.
+7. Do not play around on the Gravity Lifts on Hammalanche. 
+8. If your vehicle is destroyed by the Gravity Hammer, simply go back to the spawn point and get another vehicle, each one has a 10 second respawn rate. As said before, unattended players are ignored by the zombies. 
 
-You can use the [editor on GitHub](https://github.com/sabianroberts/mongoosehammerrulebook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sabianroberts/mongoosehammerrulebook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you break any of these rules, you will be booted from the party and not considered for future Mongoose Hammer matches.
